@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639310296628",
+    "firebase_url": "https://farmcare-10.firebaseio.com",
+    "project_id": "farmcare-10",
+    "storage_bucket": "farmcare-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639310296628:android:90b830764cf7f819bd3c61",
+        "android_client_info": {
+          "package_name": "com.tarp.farmcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639310296628-c292tokok67jngjrp4idn08ccru7s41b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp5gz79RtEI-rdY1Uo6iZomoKqjTMKXn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639310296628-c292tokok67jngjrp4idn08ccru7s41b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

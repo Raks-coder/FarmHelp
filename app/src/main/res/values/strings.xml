@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FarmCare</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_signup">Already Signed up? <u> Login </u></string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid email</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_first">First Name must be >1 Characters</string>
+    <string name="invalid_last">Last Name must be >1 Characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="new_user">New User? <u>Sign up</u></string>
+    <string name="welcome_farmer">Welcome, Farmer</string>
+    <string name="welcome_substring">How can we help you?</string>
+    <string name="test_crop_health">Test Crop Health</string>
+    <string name="report_calamity">Report Calamity</string>
+    <string name="search_disease">Search Disease</string>
+    <string name="test_crop">Test Crop Health</string>
+    <string name="import_from_gallery">Import From Gallery</string>
+    <string name="choose_calamity">Choose Calamity</string>
+    <string name="fire">Fire</string>
+    <string name="flood">Flood</string>
+    <string name="drought">Drought</string>
+    <string name="pests">Pests</string>
+    <string name="capture">Capture</string>
+    <string name="detect">Detect</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_message">You must grant permission to access camera and external storage to run this application.</string>
+    <string name="permission_warning">All permissions are required.</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="result_text">Select image and tap on detect to get result</string>
+
+</resources>
