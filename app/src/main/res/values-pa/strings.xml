@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FarmCare</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">ਈ - ਮੇਲ</string>
+    <string name="first_name">ਪਹਿਲਾ ਨਾਂ</string>
+    <string name="last_name">ਆਖਰੀ ਨਾਂਮ</string>
+    <string name="sign_up">ਸਾਇਨ ਅਪ</string>
+    <string name="already_signup">ਪਹਿਲਾਂ ਹੀ ਸਾਈਨ ਅਪ ਹੋਇਆ ਹੈ? <u> ਲੌਗਇਨ </u></string>
+    <string name="prompt_password">ਪਾਸਵਰਡ</string>
+    <string name="action_sign_in">ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਰਜਿਸਟਰ ਕਰੋ</string>
+    <string name="action_sign_in_short">ਲਾਗਿਨ</string>
+    <string name="welcome">ਸਵਾਗਤ ਹੈ !</string>
+    <string name="invalid_username">ਕੋਈ ਵੈਧ ਈਮੇਲ ਨਹੀਂ</string>
+    <string name="invalid_password">ਪਾਸਵਰਡ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ> 5 ਅੱਖਰ</string>
+    <string name="invalid_first">ਪਹਿਲਾ ਨਾਮ> 1 ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</string>
+    <string name="invalid_last">ਆਖਰੀ ਨਾਮ> 1 ਅੱਖਰ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ</string>
+    <string name="login_failed">ਲਾਗਿਨ ਅਸਫਲ ਰਿਹਾ</string>
+    <string name="forgot_password"><u>ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?</u></string>
+    <string name="welcome_farmer">ਸੁਆਗਤ, ਕਿਸਾਨ</string>
+    <string name="welcome_substring">ਅਸੀਂ ਤੁਹਾਡੀ ਕਿਵੇਂ ਮਦਦ ਕਰ ਸਕਦੇ ਹਾਂ?</string>
+    <string name="test_crop_health">ਫਸਲਾਂ ਦੀ ਸਿਹਤ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="report_calamity">ਰਿਪੋਰਟ ਬਿਪਤਾ</string>
+    <string name="search_disease">ਰੋਗ ਦੀ ਭਾਲ ਕਰੋ</string>
+    <string name="test_crop">ਫਸਲਾਂ ਦੀ ਸਿਹਤ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="import_from_gallery">ਗੈਲਰੀ ਤੋਂ ਆਯਾਤ ਕਰੋ</string>
+    <string name="choose_calamity">ਬਿਪਤਾ ਚੁਣੋ</string>
+    <string name="disease">ਬਿਮਾਰੀ</string>
+    <string name="about_disease">ਬਿਮਾਰੀ ਬਾਰੇ:</string>
+    <string name="fire">ਅੱਗ</string>
+    <string name="flood">ਹੜ</string>
+    <string name="drought">ਸੋਕਾ</string>
+    <string name="pests">ਕੀੜੇ</string>
+    <string name="capture">ਕੈਪਚਰ</string>
+    <string name="detect">ਖੋਜੋ</string>
+    <string name="permission_required">ਅਨੁਮਤੀ ਲਾਜ਼ਮੀ ਹੈ</string>
+    <string name="permission_message">ਤੁਹਾਨੂੰ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਚਲਾਉਣ ਲਈ ਕੈਮਰਾ ਅਤੇ ਬਾਹਰੀ ਸਟੋਰੇਜ ਤੱਕ ਪਹੁੰਚ ਦੀ ਅਨੁਮਤੀ ਦੇਣੀ ਚਾਹੀਦੀ ਹੈ.</string>
+    <string name="permission_warning">ਸਾਰੇ ਅਧਿਕਾਰ ਲੋੜੀਂਦੇ ਹਨ.</string>
+    <string name="capture_image">ਚਿੱਤਰ ਕੈਪਚਰ</string>
+    <string name="result_text">ਨਤੀਜਾ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਚਿੱਤਰ ਚੁਣੋ ਅਤੇ ਖੋਜ \'ਤੇ ਟੈਪ ਕਰੋ</string>
+    <string name="result">ਨਤੀਜਾ</string>
+    <string name="search">ਖੋਜ</string>
+    <string name="detected">ਬਿਮਾਰੀ ਦਾ ਪਤਾ ਲਗਾਇਆ:</string>
+    <string name="confidence">Confidence:</string>
+    <string name="healthy">ਪੌਦਾ ਸਿਹਤਮੰਦ ਹੈ</string>
+    <string name="new_user">ਨਵਾਂ ਯੂਜ਼ਰ? <u> ਸਾਈਨ ਅਪ ਕਰੋ </u></string>
+    <string name="temp_description">ਏਸਟਰ ਯੈਲੋ ਇਕ ਪੁਰਾਣੀ, ਪ੍ਰਣਾਲੀਗਤ ਪੌਦੇ ਦੀ ਬਿਮਾਰੀ ਹੈ ਜੋ ਕਈ ਬੈਕਟੀਰੀਆ ਵਰਗੇ ਜੀਵਾਣੂਆਂ ਨੂੰ ਫਾਈਟੋਪਲਾਸਮਾ ਕਹਿੰਦੇ ਹਨ. ਅਸਟਰ ਯੈਲੋ ਫਾਈਟੋਪਲਾਸਮਾ (ਏਵਾਈਪੀ) ਵਿਆਪਕ ਪੱਤਿਆਂ ਵਾਲੇ ਬੂਟੀਆਂ ਦੇ 38 ਪਰਿਵਾਰਾਂ ਵਿਚ 300 ਕਿਸਮਾਂ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰਦਾ ਹੈ, ਮੁੱਖ ਤੌਰ ਤੇ ਆਸਟਰ ਪਰਿਵਾਰ ਵਿਚ, ਅਤੇ ਨਾਲ ਹੀ ਮਹੱਤਵਪੂਰਣ ਸੀਰੀਅਲ ਫਸਲਾਂ ਜਿਵੇਂ ਕਣਕ ਅਤੇ ਜੌਂ.</string>
+
+</resources>

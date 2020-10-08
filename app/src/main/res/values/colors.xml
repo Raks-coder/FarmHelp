@@ -5,4 +5,7 @@
     <color name="colorAccent">#D81B60</color>
 
     <color name="button">#58a97b</color>
+
+    <color name="g_font">#033433</color>
+    <color name="d_font">#3b2a17</color>
 </resources>

@@ -21,7 +21,7 @@
         android:fontFamily="@font/baltster"
         android:text="@string/test_crop_health"
         android:textColor="@android:color/white"
-        android:textSize="13pt"
+        android:textSize="14pt"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

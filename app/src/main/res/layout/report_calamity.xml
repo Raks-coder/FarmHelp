@@ -21,7 +21,7 @@
         android:fontFamily="@font/baltster"
         android:text="@string/choose_calamity"
         android:textColor="@android:color/white"
-        android:textSize="13pt"
+        android:textSize="14pt"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

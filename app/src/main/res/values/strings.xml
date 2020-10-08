@@ -25,6 +25,8 @@
     <string name="test_crop">Test Crop Health</string>
     <string name="import_from_gallery">Import From Gallery</string>
     <string name="choose_calamity">Choose Calamity</string>
+    <string name="disease">Disease</string>
+    <string name="about_disease">About Disease:</string>
     <string name="fire">Fire</string>
     <string name="flood">Flood</string>
     <string name="drought">Drought</string>
@@ -36,5 +38,12 @@
     <string name="permission_warning">All permissions are required.</string>
     <string name="capture_image">Capture Image</string>
     <string name="result_text">Select image and tap on detect to get result</string>
+    <string name="result">Result</string>
+    <string name="search">Search</string>
+    <string name="detected">Detected disease:</string>
+    <string name="confidence">Confidence:</string>
+    <string name="healthy">Plant is Healthy</string>
+    <string name="temp_description">Aster yellows is a chronic, systemic plant disease caused by several bacterium-like organisms called phytoplasma.
+        The aster yellows phytoplasma (AYP) affects 300 species in 38 families of broad-leaf herbaceous plants, primarily in the aster family, as well as important cereal crops such as wheat and barley.</string>
 
 </resources>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FarmCare</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">மின்னஞ்சல்</string>
+    <string name="first_name">முதல் பெயர்</string>
+    <string name="last_name">கடைசி பெயர்</string>
+    <string name="sign_up">பதிவுபெறுக</string>
+    <string name="already_signup">ஏற்கனவே பதிவுசெய்துள்ளீர்களா? <u> உள்நுழை </u></string>
+    <string name="prompt_password">கடவுச்சொல்</string>
+    <string name="action_sign_in">உள்நுழைக அல்லது பதிவு செய்யுங்கள்</string>
+    <string name="action_sign_in_short">உள்நுழைய</string>
+    <string name="welcome">வரவேற்பு !</string>
+    <string name="invalid_username">சரியான மின்னஞ்சல் அல்ல</string>`
+    <string name="invalid_password">கடவுச்சொல்> 5 எழுத்துகளாக இருக்க வேண்டும்</string>
+    <string name="invalid_first">முதல் பெயர்> 1 எழுத்துக்கள் இருக்க வேண்டும்</string>
+    <string name="invalid_last">கடைசி பெயர்> 1 எழுத்துக்கள் இருக்க வேண்டும்</string>
+    <string name="login_failed">உள்நுழைவு தோல்வியுற்றது</string>
+    <string name="forgot_password"><u>கடவுச்சொல்லை மறந்துவிட்டீர்களா?</u></string>
+    <string name="new_user">புதிய பயனர்? <u> பதிவுபெறு </u></string>
+    <string name="welcome_farmer">வரவேற்பு, விவசாயி</string>
+    <string name="welcome_substring">உள்நுழைக அல்லது பதிவு செய்யுங்கள்</string>
+    <string name="test_crop_health">பயிர் ஆரோக்கியத்தை சோதிக்கவும்</string>
+    <string name="report_calamity">பேரழிவைப் புகாரளிக்கவும்</string>
+    <string name="search_disease">தேடல் நோய்</string>
+    <string name="test_crop">பயிர் ஆரோக்கியத்தை சோதிக்கவும்</string>
+    <string name="import_from_gallery">கேலரியில் இருந்து இறக்குமதி செய்க</string>
+    <string name="choose_calamity">பேரழிவைத் தேர்வுசெய்க</string>
+    <string name="disease">நோய்</string>
+    <string name="about_disease">நோய் பற்றி:</string>
+    <string name="fire">தீ</string>
+    <string name="flood">வெள்ளம்</string>
+    <string name="drought">வறட்சி</string>
+    <string name="pests">பூச்சிகள்</string>
+    <string name="capture">பிடிப்பு</string>
+    <string name="detect">கண்டறிதல்</string>
+    <string name="permission_required">அனுமதி தேவை</string>
+    <string name="permission_message">இந்த பயன்பாட்டை இயக்க கேமரா மற்றும் வெளிப்புற சேமிப்பிடத்தை அணுக நீங்கள் அனுமதி வழங்க வேண்டும்.</string>
+    <string name="permission_warning">அனைத்து அனுமதிகளும் தேவை.</string>
+    <string name="capture_image">படத்தைப் பிடிக்கவும்</string>
+    <string name="result_text">முடிவைப் பெற படத்தைத் தேர்ந்தெடுத்து கண்டறிவதைத் தட்டவும்</string>
+    <string name="result">விளைவாக</string>
+    <string name="search">தேடல்</string>
+    <string name="detected">கண்டறியப்பட்ட நோய்:</string>
+    <string name="confidence">Confidence:</string>
+    <string name="healthy">ஆலை ஆரோக்கியமானது</string>
+    <string name="temp_description">ஆஸ்டர் மஞ்சள் என்பது பைட்டோபிளாஸ்மா எனப்படும் பல பாக்டீரியம் போன்ற உயிரினங்களால் ஏற்படும் ஒரு நாள்பட்ட, முறையான தாவர நோயாகும். ஆஸ்டர் யெல்லோஸ் பைட்டோபிளாஸ்மா (AYP) பரந்த-இலை குடலிறக்க தாவரங்களின் 38 குடும்பங்களில் 300 இனங்களை பாதிக்கிறது, முதன்மையாக ஆஸ்டர் குடும்பத்தில், அதே போல் கோதுமை மற்றும் பார்லி போன்ற முக்கியமான தானிய பயிர்களாகும்.</string>
+
+</resources>

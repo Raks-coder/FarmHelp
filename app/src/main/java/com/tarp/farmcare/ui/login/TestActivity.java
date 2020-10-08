@@ -48,7 +48,7 @@ public class TestActivity extends AppCompatActivity {
     int mInputSize = 224;
     String mModelPath = "plant_disease_model.tflite";
     String mLabelPath = "plant_labels.txt";
-    String mSamplePath = "soybean.JPG";
+    String mSamplePath = "test.jpg";
 
     private int mCameraRequestCode = 0;
     private int mGalleryRequestCode = 2;
@@ -113,7 +113,16 @@ public class TestActivity extends AppCompatActivity {
                 if (!results.isEmpty()) {
                     rec = results.get(0);
                     Log.e("Rec", " "+rec);
-                    mResultTextView.setText(rec.getTitle() + "\n Confidence:" + rec.getConfidence());
+
+                    mResultTextView.setText(rec.getTitle() + "\n Confidence:" + rec.getConfidence() + " ID " + rec.getId());
+
+                    Intent i = new Intent(TestActivity.this, ResultActivity.class);
+                    System.out.println(rec.getId());
+                    i.putExtra("id",rec.getId());
+                    i.putExtra("d_name",rec.getTitle());
+                    i.putExtra("confidence",rec.getConfidence());
+                    startActivity(i);
+
                 }
             }
         });
