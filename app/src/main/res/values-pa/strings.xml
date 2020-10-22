@@ -44,5 +44,12 @@
     <string name="healthy">ਪੌਦਾ ਸਿਹਤਮੰਦ ਹੈ</string>
     <string name="new_user">ਨਵਾਂ ਯੂਜ਼ਰ? <u> ਸਾਈਨ ਅਪ ਕਰੋ </u></string>
     <string name="temp_description">ਏਸਟਰ ਯੈਲੋ ਇਕ ਪੁਰਾਣੀ, ਪ੍ਰਣਾਲੀਗਤ ਪੌਦੇ ਦੀ ਬਿਮਾਰੀ ਹੈ ਜੋ ਕਈ ਬੈਕਟੀਰੀਆ ਵਰਗੇ ਜੀਵਾਣੂਆਂ ਨੂੰ ਫਾਈਟੋਪਲਾਸਮਾ ਕਹਿੰਦੇ ਹਨ. ਅਸਟਰ ਯੈਲੋ ਫਾਈਟੋਪਲਾਸਮਾ (ਏਵਾਈਪੀ) ਵਿਆਪਕ ਪੱਤਿਆਂ ਵਾਲੇ ਬੂਟੀਆਂ ਦੇ 38 ਪਰਿਵਾਰਾਂ ਵਿਚ 300 ਕਿਸਮਾਂ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰਦਾ ਹੈ, ਮੁੱਖ ਤੌਰ ਤੇ ਆਸਟਰ ਪਰਿਵਾਰ ਵਿਚ, ਅਤੇ ਨਾਲ ਹੀ ਮਹੱਤਵਪੂਰਣ ਸੀਰੀਅਲ ਫਸਲਾਂ ਜਿਵੇਂ ਕਣਕ ਅਤੇ ਜੌਂ.</string>
+    <string name="emergency">ਐਮਰਜੈਂਸੀ ਸੰਪਰਕ</string>
+    <string name="NDRF">NDRF ਹੈਲਪਲਾਈਨ ਨੰ.</string>
+    <string name="disaster">ਆਪਦਾ ਪ੍ਰਬੰਧਨ ਸੇਵਾਵਾਂ</string>
+    <string name="earrthquake">ਭੁਚਾਲ / ਹੜ / ਬਿਪਤਾ (N.D.R.F. ਹੈੱਡਕੁਆਰਟਰ)</string>
+    <string name="kisan">ਕਿਸਾਨ ਕਾਲ ਸੈਂਟਰ</string>
+    <string name="national">ਰਾਸ਼ਟਰੀ ਐਮਰਜੈਂਸੀ ਨੰਬਰ</string>
+    <string name="relief">ਕੁਦਰਤੀ ਆਫ਼ਤਾਂ ਲਈ ਰਾਹਤ ਕਮਿਸ਼ਨਰ</string>
 
 </resources>

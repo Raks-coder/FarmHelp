@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/farmcare"
-    tools:context="com.tarp.farmcare.ui.login.SplashScreenActivity">
+    tools:context="com.tarp.farmcare.ui.activity.SplashScreenActivity">
 
 <!--    <ImageView-->
 <!--        android:id="@+id/splash_iv"-->

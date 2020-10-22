@@ -1,7 +1,6 @@
 package com.tarp.farmcare.ui.login;
 
 import android.Manifest;
-import android.app.Activity;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
@@ -32,8 +31,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.tarp.farmcare.R;
-import com.tarp.farmcare.ui.login.LoginViewModel;
-import com.tarp.farmcare.ui.login.LoginViewModelFactory;
+import com.tarp.farmcare.ui.activity.HomeActivity;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
 

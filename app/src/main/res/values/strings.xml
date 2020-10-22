@@ -46,4 +46,12 @@
     <string name="temp_description">Aster yellows is a chronic, systemic plant disease caused by several bacterium-like organisms called phytoplasma.
         The aster yellows phytoplasma (AYP) affects 300 species in 38 families of broad-leaf herbaceous plants, primarily in the aster family, as well as important cereal crops such as wheat and barley.</string>
 
+    
+    <string name="emergency">Emergency contact</string>
+    <string name="national">National Emergency Number</string>
+    <string name="disaster">Disaster Management Services</string>
+    <string name="earrthquake">Earthquake / Flood / Disaster (N.D.R.F Headquarters</string>
+    <string name="NDRF">NDRF Helpline No.</string>
+    <string name="kisan">Kisan Call Centre</string>
+    <string name="relief">Relief Commissioner For Natural Calamities</string>
 </resources>

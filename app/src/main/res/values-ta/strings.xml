@@ -44,5 +44,12 @@
     <string name="confidence">Confidence:</string>
     <string name="healthy">ஆலை ஆரோக்கியமானது</string>
     <string name="temp_description">ஆஸ்டர் மஞ்சள் என்பது பைட்டோபிளாஸ்மா எனப்படும் பல பாக்டீரியம் போன்ற உயிரினங்களால் ஏற்படும் ஒரு நாள்பட்ட, முறையான தாவர நோயாகும். ஆஸ்டர் யெல்லோஸ் பைட்டோபிளாஸ்மா (AYP) பரந்த-இலை குடலிறக்க தாவரங்களின் 38 குடும்பங்களில் 300 இனங்களை பாதிக்கிறது, முதன்மையாக ஆஸ்டர் குடும்பத்தில், அதே போல் கோதுமை மற்றும் பார்லி போன்ற முக்கியமான தானிய பயிர்களாகும்.</string>
+    <string name="emergency">அவசர தொடர்பு</string>
+    <string name="NDRF">NDRF ஹெல்ப்லைன் எண்.</string>
+    <string name="disaster">பேரிடர் மேலாண்மை சேவைகள்</string>
+    <string name="earrthquake">பூகம்பம் / வெள்ளம் / பேரழிவு (N.D.R.F தலைமையகம்)</string>
+    <string name="kisan">கிசான் கால் சென்டர்</string>
+    <string name="national">தேசிய அவசர எண்</string>
+    <string name="relief">இயற்கை பேரழிவுகளுக்கான நிவாரண ஆணையர்</string>
 
 </resources>
