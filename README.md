@@ -1,3 +1,3 @@
 # FarmHelp
 
-Dedicated tp the farmers of the nation
+Dedicated to the farmers of the nation
